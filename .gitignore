@@ -1,0 +1,38 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Video outputs & temporary extraction assets
+out/
+dist/
+build/
+*.mp4
+*.mov
+*.avi
+reference-assets/frames/
+reference-assets/contact_sheets/
+reference-assets/scene_stills/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
